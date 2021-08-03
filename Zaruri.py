@@ -44,3 +44,6 @@ for x in zaruri:
             suma += j  
             
 print(suma)
+
+## test
+##
